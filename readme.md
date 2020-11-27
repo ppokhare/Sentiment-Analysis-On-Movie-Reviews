@@ -1,4 +1,4 @@
-#Understanding Sentiment of the Tweets using Transformer model
+#Understanding Sentiment on IMDB movie review using Transformer model
 
  To do:
 1. find dataset: kaggle, google search
