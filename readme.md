@@ -1,11 +1,9 @@
-#Understanding Sentiment on IMDB movie review using Transformer model
+# Sentiment Alalysis for IMDB movie reviews using BERT model
 
- To do:
-1. find dataset: kaggle, google search
-2. find model: Hugging face
-3. preprocessing data: might need to vectorize the text: NLTK
-4. build the model:
-5. hyperparamater tunning:
-6. "extract the model" : Pickle?
-7. Dockerize and Deploy: 
-8. Try cloud servies: apply kubernetics
+Summary: Using pre-trained BERT model to classify movie reviews sentiment with an accuracy of 93%. 
+
+Original BERT paper: https://arxiv.org/abs/1810.04805  
+Transformer paper: https://arxiv.org/abs/1706.03762  
+Pre-trained model from: https://huggingface.co/bert-base-cased  
+Intuitive explaination of BERT by Jay Alammar: https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/  
+
